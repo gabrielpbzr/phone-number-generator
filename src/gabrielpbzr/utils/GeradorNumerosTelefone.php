@@ -3,7 +3,7 @@ namespace gabrielpbzr\utils;
     /** 
      * Classe geradora de numeros de telefones brasileiros 
      * Util para testes de software.
-     * @author Gabriel P. Bezerra <a href="mailto:gabrielpbzr@gmail.com">gabrielpbzr@gmail.com</a>
+     * @author Gabriel P. Bezerra
      */
     class GeradorNumerosTelefone{
         private $TABELA_UF_DDD = array(
